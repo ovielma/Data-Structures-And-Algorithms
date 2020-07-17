@@ -1,0 +1,5 @@
+# dev environment
+.vscode/
+
+# misc
+.DS_Store
