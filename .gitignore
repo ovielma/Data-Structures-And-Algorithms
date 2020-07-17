@@ -1,5 +1,8 @@
 # dev environment
 .vscode/
 
+# binaries
+bin/
+
 # misc
 .DS_Store
